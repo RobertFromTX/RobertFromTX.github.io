@@ -6,7 +6,7 @@ date: 2016-02-20 21:15:00
 categories: development design
 tags: ROS Arduino 3D-Printing Summer&nbsp2023
 #featured_image: 
-featured_video: https://www.youtube.com/embed/y4rFPjfNMAY
+featured_video: https://www.youtube.com/embed/HfVTpcS2ZB8
 project_link: 'https://github.com/RobertFromTX/three_DOF_robotic_arm_ws'
 button_icon: 'flask'
 button_text: 'Visit Project'
