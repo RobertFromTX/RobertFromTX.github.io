@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hello. I&apos;m Robert Chu.</title>
+ <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-08T20:20:37-05:00</updated>
+ <updated>2023-08-08T22:25:46-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Jami Gibbs</name>
+   <name>Robert Chu</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>Phantom</title>
+   <title>3D-Printed Robotic Arm</title>
    <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
    <updated>2016-02-20T15:15:00-06:00</updated>
    <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
