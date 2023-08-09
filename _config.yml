@@ -18,8 +18,8 @@ email: 'robc.btx@gmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robertfromtx.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
+twitter_username: 'RobertEnTX'
+github_username: 'RobertFromTx'
 medium_username: 'blog.jamigibbs.com'
 
 # Build settings
@@ -89,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2018 Robert Chu'
+admin_name: 'Robert Chu'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
