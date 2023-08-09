@@ -1,9 +1,6 @@
   {% if post.featured_image %}
   <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
   {% endif %}
-  <!-- #FIXLATER added for featured_video, don't know where else to put it -->
   {% if post.featured_video %}
-  <video width="320" height="240" controls>
-    <source src="{{ post.featured_video }}" type="video/mp4">
-  </video>
+  <video width="540" height="450" controls src="{{ post.featured_video }}" type="video/mp4">
   {% endif %}
