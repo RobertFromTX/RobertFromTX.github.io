@@ -5,6 +5,7 @@ source "https://rubygems.org"
 #gem "jekyll"
 #gem "kramdown-parser-gfm"
 #gem "webrick"
+gem 'github-pages', '~> 228'
 gem "addressable"
 gem "public_suffix"
 gem "colorator"
