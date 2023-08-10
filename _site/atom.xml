@@ -4,7 +4,7 @@
  <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-08T23:51:38-05:00</updated>
+ <updated>2023-08-09T20:02:43-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Robert Chu</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>3D-Printed Robotic Arm</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
-   <updated>2016-02-20T15:15:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
+   <link href="http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template.html"/>
+   <updated>2023-08-08T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template</id>
    <content type="html">
 </content>
  </entry>

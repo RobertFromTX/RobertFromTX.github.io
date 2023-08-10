@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: '3D-Printed Robotic Arm'
-date: 2016-02-20 21:15:00
+date: 2023-08-08 21:15:00
 categories: development design
 tags: ROS Arduino 3D-Printing Summer&nbsp2023
 #featured_image: 

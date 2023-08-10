@@ -5,17 +5,17 @@
     <description>A Computer Engineering student at studying Texas A&amp;M who enjoys tinkering with technology.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Aug 2023 23:51:38 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2023 23:51:38 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Aug 2023 20:02:43 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Aug 2023 20:02:43 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>3D-Printed Robotic Arm</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 15:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <pubDate>Tue, 08 Aug 2023 16:15:00 -0500</pubDate>
+        <link>http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template.html</guid>
         
         <category>ROS</category>
         

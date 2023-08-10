@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Weathercast'
 date: 2016-02-20 15:56:00
 categories: development
