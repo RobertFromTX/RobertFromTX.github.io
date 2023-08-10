@@ -4,7 +4,7 @@
  <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-10T13:48:45-05:00</updated>
+ <updated>2023-08-10T14:32:05-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Robert Chu</name>
@@ -13,10 +13,19 @@
 
  
  <entry>
+   <title>Webcam Object Detection</title>
+   <link href="http://localhost:4000/2023/08/10/webcam-object-detection.html"/>
+   <updated>2023-08-10T09:15:00-05:00</updated>
+   <id>http://localhost:4000/2023/08/10/webcam-object-detection</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>3D-Printed Robotic Arm</title>
-   <link href="http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm.html"/>
+   <link href="http://localhost:4000/development/design/2023/08/08/3dof-robotic-arm.html"/>
    <updated>2023-08-08T16:15:00-05:00</updated>
-   <id>http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm</id>
+   <id>http://localhost:4000/development/design/2023/08/08/3dof-robotic-arm</id>
    <content type="html">
 </content>
  </entry>
@@ -32,18 +41,9 @@
  
  <entry>
    <title>Wireless Phone Charging Clamp</title>
-   <link href="http://localhost:4000/development/design/2022/12/18/weathercast.html"/>
-   <updated>2022-12-18T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2022/12/18/weathercast</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T08:15:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/bloc-jams-angular</id>
+   <link href="http://localhost:4000/development/design/2022/12/01/wireless-clamp.html"/>
+   <updated>2022-12-01T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/design/2022/12/01/wireless-clamp</id>
    <content type="html">
 </content>
  </entry>

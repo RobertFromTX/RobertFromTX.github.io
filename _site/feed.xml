@@ -5,17 +5,36 @@
     <description>A Computer Engineering student at studying Texas A&amp;M who enjoys tinkering with technology.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Aug 2023 13:48:45 -0500</pubDate>
-    <lastBuildDate>Thu, 10 Aug 2023 13:48:45 -0500</lastBuildDate>
+    <pubDate>Thu, 10 Aug 2023 14:32:05 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Aug 2023 14:32:05 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Webcam Object Detection</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Aug 2023 09:15:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/08/10/webcam-object-detection.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/10/webcam-object-detection.html</guid>
+        
+        <category>Individual</category>
+        
+        <category>Python</category>
+        
+        <category>OpenCV</category>
+        
+        <category>Summer&amp;nbsp2023</category>
+        
+        
+      </item>
     
       <item>
         <title>3D-Printed Robotic Arm</title>
         <description>
 </description>
         <pubDate>Tue, 08 Aug 2023 16:15:00 -0500</pubDate>
-        <link>http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm.html</guid>
+        <link>http://localhost:4000/development/design/2023/08/08/3dof-robotic-arm.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2023/08/08/3dof-robotic-arm.html</guid>
         
         <category>Individual</category>
         
@@ -65,9 +84,9 @@
         <title>Wireless Phone Charging Clamp</title>
         <description>
 </description>
-        <pubDate>Sun, 18 Dec 2022 09:56:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2022/12/18/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2022/12/18/weathercast.html</guid>
+        <pubDate>Thu, 01 Dec 2022 09:56:00 -0600</pubDate>
+        <link>http://localhost:4000/development/design/2022/12/01/wireless-clamp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2022/12/01/wireless-clamp.html</guid>
         
         <category>Individual</category>
         
@@ -78,29 +97,6 @@
         <category>CAD</category>
         
         <category>Fall&amp;nbsp2022</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 08:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
         
         
         <category>development</category>
