@@ -2,5 +2,8 @@
   <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
   {% endif %}
   {% if post.featured_video %}
-  <iframe width="560" height="315" src="{{ post.featured_video }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="{{ post.featured_video }}" title="{{ post.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {% endif %}
+  {% if post.featured_gif %}
+  <img  src="{{ post.featured_gif }}" title="{{ post.title }}"></img>
   {% endif %}

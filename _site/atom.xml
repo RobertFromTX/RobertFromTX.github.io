@@ -4,7 +4,7 @@
  <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-09T20:49:49-05:00</updated>
+ <updated>2023-08-10T13:48:45-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Robert Chu</name>
@@ -14,36 +14,36 @@
  
  <entry>
    <title>3D-Printed Robotic Arm</title>
-   <link href="http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template.html"/>
+   <link href="http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm.html"/>
    <updated>2023-08-08T16:15:00-05:00</updated>
-   <id>http://localhost:4000/development/design/2023/08/08/phantom-jekyll-template</id>
+   <id>http://localhost:4000/development/design/2023/08/08/3_dof_robotic_arm</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Rescue Themes</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
+   <title>NFC Bikelock</title>
+   <link href="http://localhost:4000/development/design/2023/05/01/bikelock.html"/>
+   <updated>2023-05-01T10:56:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2023/05/01/bikelock</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
+   <title>Wireless Phone Charging Clamp</title>
+   <link href="http://localhost:4000/development/design/2022/12/18/weathercast.html"/>
+   <updated>2022-12-18T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/design/2022/12/18/weathercast</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
+   <link href="http://localhost:4000/development/design/2016/02/20/bloc-jams-angular.html"/>
    <updated>2016-02-20T08:15:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <id>http://localhost:4000/development/design/2016/02/20/bloc-jams-angular</id>
    <content type="html">
 </content>
  </entry>
