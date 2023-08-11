@@ -2,7 +2,11 @@
   <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
   {% endif %}
   {% if post.featured_video %}
-  <iframe width="560" height="315" src="{{ post.featured_video }}" title="{{ post.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="auto-resizable-iframe">
+    <div>
+      <iframe src="https://www.youtube.com/embed/HfVTpcS2ZB8" title="3D-Printed Robotic Arm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
   {% endif %}
   {% if post.featured_gif %}
   <img  src="{{ post.featured_gif }}" title="{{ post.title }}"></img>
