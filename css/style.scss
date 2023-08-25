@@ -32,6 +32,7 @@ $secondary: #FF7B7B;
     width: 1200px;
   }
 }
+
 /*added*/
 /*
 #about-me {
@@ -43,7 +44,11 @@ $secondary: #FF7B7B;
   margin-left: auto;
   margin-right: auto; */
 img.prof_pic {
-  float: center;
+  align-items: center; /*this light actually doesn't do anything*/
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+
   width: 400px;
   height: 400px;
   margin-top: 105px;
@@ -493,3 +498,25 @@ pre {
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
+
+
+
+
+/*added for about page changing with mobile and desktop views*/
+@media only screen and (max-device-width: 1080px) {
+  div.show-mobile {
+    display: block;
+  }
+  div.show-desktop {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1081px) {
+  div.show-mobile {
+    display: none;
+  }
+  div.show-desktop {
+    display: block;
+  }
+}

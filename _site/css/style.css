@@ -5841,7 +5841,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto; */
 img.prof_pic {
-  float: center;
+  align-items: center;
+  /*this light actually doesn't do anything*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 400px;
   height: 400px;
   margin-top: 105px;
@@ -6475,3 +6479,16 @@ pre > code {
   font-weight: bold; }
 
 /* Literal.Number.Integer.Long */
+/*added for about page changing with mobile and desktop views*/
+@media only screen and (max-device-width: 1080px) {
+  div.show-mobile {
+    display: block; }
+
+  div.show-desktop {
+    display: none; } }
+@media only screen and (min-device-width: 1081px) {
+  div.show-mobile {
+    display: none; }
+
+  div.show-desktop {
+    display: block; } }
