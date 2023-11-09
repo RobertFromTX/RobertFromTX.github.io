@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howdy! I&apos;m Robert Chu.</title>
-    <description>A Computer Engineering student at studying Texas A&amp;M who enjoys tinkering with technology.</description>
+    <description>A Computer Engineering student at studying Texas A&amp;M who enjoys tinkering with technology. 
+Scroll down to see what I have been up to recently.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Nov 2023 00:31:59 -0600</pubDate>
-    <lastBuildDate>Thu, 09 Nov 2023 00:31:59 -0600</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2023 00:50:16 -0600</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2023 00:50:16 -0600</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
