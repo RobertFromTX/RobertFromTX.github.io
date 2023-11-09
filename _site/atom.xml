@@ -4,13 +4,22 @@
  <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-25T18:17:32-05:00</updated>
+ <updated>2023-11-09T00:31:59-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Robert Chu</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>DIY Arduino Nano</title>
+   <link href="http://localhost:4000/hands&nbspon&nbspwork/2023/11/08/soldering.html"/>
+   <updated>2023-11-08T19:15:00-06:00</updated>
+   <id>http://localhost:4000/hands&nbspon&nbspwork/2023/11/08/soldering</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>6dof Robotic Arm</title>
