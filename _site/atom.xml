@@ -4,13 +4,22 @@
  <title>Howdy! I&apos;m Robert Chu.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-11-09T00:50:16-06:00</updated>
+ <updated>2025-08-12T01:03:10-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Robert Chu</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Two-Wheel Self-Balancing Robot</title>
+   <link href="http://localhost:4000/hands&nbspon&nbspwork/2025/08/08/two-wheeled-balancing-robot.html"/>
+   <updated>2025-08-08T20:15:00-05:00</updated>
+   <id>http://localhost:4000/hands&nbspon&nbspwork/2025/08/08/two-wheeled-balancing-robot</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>DIY Arduino Nano</title>
